@@ -12,7 +12,7 @@ api_yamdb
 Клонировать репозиторий:
 
 ```
-git clone git@github.com:vovamkr/api_yamdb.git
+git clone https://github.com/vladimirramozin/api_yamdb.git
 
 ```
 
