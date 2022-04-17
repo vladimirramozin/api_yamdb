@@ -58,3 +58,5 @@ python3 manage.py createsuperuser
 ```
 python3 manage.py runserver
 ```
+
+Над проектом также работали: Владимир Макаров https://github.com/vovamkr, Игорь Батулин https://github.com/IgorGIT
