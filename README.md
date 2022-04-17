@@ -64,5 +64,15 @@ python3 manage.py createsuperuser
 ```
 python3 manage.py runserver
 ```
+## Системные требования:
+requests==2.26.0,
+django==2.2.16,
+djangorestframework==3.12.4,
+PyJWT==1.7.0,
+pytest==6.2.4,
+pytest-django==4.3.0,
+pytest-pythonpath==0.7.3,
+djangorestframework-simplejwt==4.3.0,
+django-filter==21.1
 
-Над проектом также работали: Владимир Макаров https://github.com/vovamkr, Игорь Батулин https://github.com/IgorGIT
+### Над проектом также работали: Владимир Макаров https://github.com/vovamkr, Игорь Батулин https://github.com/IgorGIT
